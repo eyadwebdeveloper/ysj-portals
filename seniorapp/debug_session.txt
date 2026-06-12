@@ -1,0 +1,39 @@
+Array
+(
+    [research_files] => Array
+        (
+            [0] => Array
+                (
+                    [name] => screen.png
+                    [path] => uploads/SYSJ070/final/screen.png
+                    [size] => 158619
+                    [type] => image/png
+                )
+
+        )
+
+    [commented_files] => Array
+        (
+            [0] => Array
+                (
+                    [name] => EBO Website.docx
+                    [path] => uploads/SYSJ070/final/EBO_Website.docx
+                    [size] => 22184
+                    [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+        )
+
+    [additional_files] => Array
+        (
+            [0] => Array
+                (
+                    [name] => EBO Website.docx
+                    [path] => uploads/SYSJ070/drafts/additional_files_68695e4c039c1_EBO_Website.docx
+                    [size] => 22184
+                    [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+        )
+
+)
