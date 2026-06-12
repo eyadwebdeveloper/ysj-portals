@@ -1,0 +1,66 @@
+.filter-form {
+  padding: 40px 280px;
+  padding-bottom: 0;
+}
+
+.filter-form input, .filter-form input {
+  width: 100%;
+}
+
+.filter-form .form-container {
+  padding: 20px;
+  gap: 15px;
+  border-radius: 10px;
+  background: #d4d4d4;
+}
+
+.filter-form .inputs {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.filter-form .inputs div {
+  width: 100%;
+}
+
+
+.filter-form .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.filter-form button, .filter-form a {
+  background: #a31313;
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: 18px;
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+/* Sortable table styling */
+#sortable tr {
+    cursor: move;
+}
+
+.sortable-chosen {
+    background-color: #f9f9f9;
+}
+
+.sortable-ghost {
+    background-color: #e0e0e0;
+}
+
+/* Checkbox styling */
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}

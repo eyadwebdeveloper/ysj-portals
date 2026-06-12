@@ -1,0 +1,88 @@
+.announcements {
+    padding: 50px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.announcements .announcement {
+    padding: 20px;
+    background: #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.announcements .announcement h4 {
+    font-size: 23px;
+    color: #a31313;
+}
+.announcements .announcement h5 {
+    font-size: 18px;
+}
+.announcements .announcement a {
+    color: #7e0d0d;
+    font-size: 17px;
+    text-decoration: none;
+}
+h3 {
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.actionss {
+    display: flex;
+    justify-content: end;
+    height: fit-content;
+    gap: 10px;
+    align-items: center;
+}
+
+
+.announcement-form input,
+.announcement-form textarea {
+    padding: 8px;
+}
+
+.button {
+    padding: 8px 15px;
+    background-color: #a31313;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+
+.button:hover {
+    background-color: #7e0d0d;
+}
+
+.announcements .announcement a.button {
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.announcement-content {
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.announcement-content h3 {
+    margin-left: 0;
+}
+
+.announcement-content .meta {
+    color: #a31313;
+    font-size: 18px;
+}
+
+.announcement-content .back {
+    color: #a31313;
+    font-size: 18px;
+        color: #7e0d0d;
+    font-size: 17px;
+    text-decoration: none;
+}
